@@ -1,0 +1,9 @@
+.berita{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 30%;
+    margin: 0 20%;
+    background-color: blueviolet;
+}
